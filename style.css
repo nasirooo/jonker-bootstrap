@@ -19,3 +19,34 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 20px;
+} 
+.cat1{
+    background-color: cyan;
+}
+.cat2{
+    background-color: darkmagenta;
+}
+.cat3{
+    background-color: darkorange;
+}
+.categories h1{
+    color: darkslategray;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: lightgray;
+    border-top:none ;
+}
+footer{
+    text-align:center ;
+}
