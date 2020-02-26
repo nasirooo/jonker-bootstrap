@@ -1,0 +1,21 @@
+.container{
+    margin: 100px;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 25px;
+}
+.carousel-item{
+    padding: 10px 20px;
+}
+.price{
+    color: brown;
+}
+.bye-new-button{
+    background-image: linear-gradient(to button, green 0%, brown 100% );
+    color: rgb(138, 28, 33);
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
